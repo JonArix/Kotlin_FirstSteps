@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First Steps</string>
+    <string name="tring_hello_world_text">well that\'s one way to do thing</string>
+    <string name="hello_world_text">One small step for me, one smaller step compared to everyone else!</string>
+</resources>
